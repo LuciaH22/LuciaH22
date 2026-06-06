@@ -1,25 +1,11 @@
 ## Hi there 👋
-
-<!--
-**LuciaH22/LuciaH22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h2 align="left">Hi 👋! My name is Lu and I'm a Systems Engineering Student, from Argentina</h2>
+ <h2 align="left">Hi 👋! My name is Lu and I'm a Systems Engineering Student, from Argentina</h2>
 
 ###
 
 <div align="center">
   <img src= "https://github.com/user-attachments/assets/a65035e3-f115-4a18-8bb9-199375031a46" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/luciaH22/luciaH22/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
