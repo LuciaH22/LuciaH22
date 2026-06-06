@@ -80,9 +80,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuciaH22&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luciaH22&show_icons=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaH22&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaH22&layout=compact"/>
 
 </p>
 
