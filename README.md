@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src= "https://github.com/user-attachments/assets/a65035e3-f115-4a18-8bb9-199375031a46" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/1200x/95/95/e0/9595e060d547adc78d445be20dd1c756.jpg)"  />
 
 ###
 
