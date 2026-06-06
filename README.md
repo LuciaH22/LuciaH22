@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/1200x/95/95/e0/9595e060d547adc78d445be20dd1c756.jpg)"  />
+<img width="675" height="674" alt="image" src="https://github.com/user-attachments/assets/e99b7cc5-dd95-4d61-81d6-d8a60c9804b0" />
 
 ###
 
@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LuciaH22/LuciaH22/snake-output/snake.svg" alt="Snake animation" />
 
 ###
