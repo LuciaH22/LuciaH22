@@ -1,12 +1,12 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d098de0-8524-4bd0-9cf2-1074a5dc0acd" width="100%" />
+  <img src="https://github.com/user-attachments/assets/8d098de0-8524-4bd0-9cf2-1074a5dc0acd" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Lucía</h1>
 
-<h3 align="center">Systems Engineering Student from Argentina 🇦🇷</h3>
+<h3 align="center">Systems Engineering Student | UTN Argentina 🇦🇷</h3>
 
 <table>
 <tr>
@@ -14,23 +14,21 @@
 
 ### 👩‍💻 About Me
 
-🎓 Systems Engineering Student at UTN
+🎓 Information Systems Engineering Student at UTN
 
-📚 Currently studying advanced courses in Information Systems Engineering
+💻 Interested in Software Development, Databases and Information Systems
 
-🌱 Improving my English and building practical projects
+🌱 Currently improving my English and building practical projects
 
-💾 Interested in Databases, Software Development and Information Systems
+🤝 Open to collaboration, learning opportunities and internships
 
-🤝 Looking for opportunities to learn, collaborate and grow professionally
-
-🚀 Future Software Engineer
+🚀 Working towards becoming a professional Software Engineer
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU1eTZycXhqd3RmdTNnOGRrbDdlbHlvd2pmaGx6cGNjaXNnejRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWZzCtRhyzOnu9zEqf/giphy.gif" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU1eTZycXhqd3RmdTNnOGRrbDdlbHlvd2pmaGx6cGNjaXNnejRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWZzCtRhyzOnu9zEqf/giphy.gif" width="220"/>
 
 </td>
 </tr>
@@ -40,7 +38,7 @@
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
@@ -58,14 +56,10 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/etna-lucía-herrera-460981342?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/etna-luc%C3%ADa-herrera-460981342">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="703285876754743316">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:luchiherrera24@gmail.com">
@@ -76,33 +70,19 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luciaH22&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaH22&layout=compact"/>
-
-</p>
-
----
-
 ### 📌 Featured Projects
 
-🔹 Database Projects
+🔹 MiPaginaWeb
 
-🔹 Information Systems Projects
+🔹 SistemaPedidos
+
+🔹 Database Projects (UTN)
 
 🔹 Operations Research Projects
 
-🔹 Software Development Projects
-
-🔹 University Team Projects
-
 ---
 
-### 🏆 Current Goals
+### 🎯 Current Goals
 
 ✔ Improve my English
 
@@ -116,17 +96,8 @@
 
 ---
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LuciaH22/LuciaH22/snake-output/snake.svg" />
-</p>
-
----
-
 <p align="center">
 
-"Learning one project at a time."
+<i>"Learning one project at a time."</i>
 
 </p>
-
