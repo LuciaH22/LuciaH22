@@ -30,7 +30,7 @@
 
 <td width="40%">
 
-<img src="TU_GIF_URL" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU1eTZycXhqd3RmdTNnOGRrbDdlbHlvd2pmaGx6cGNjaXNnejRrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWZzCtRhyzOnu9zEqf/giphy.gif" width="250"/>
 
 </td>
 </tr>
@@ -60,15 +60,15 @@
 
 <p align="left">
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/etna-lucía-herrera-460981342?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="TU_DISCORD">
+<a href="703285876754743316">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:luchiherrera24@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
