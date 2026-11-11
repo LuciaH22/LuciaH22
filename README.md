@@ -34,25 +34,7 @@
 </tr>
 </table>
 
----
 
-### 🛠️ Technologies & Tools
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-
-</p>
-
----
 
 ### 🌐 Connect With Me
 
@@ -80,24 +62,5 @@
 
 🔹 Operations Research Projects
 
----
-
-### 🎯 Current Goals
-
-✔ Improve my English
-
-✔ Build a strong GitHub portfolio
-
-✔ Participate in technology communities
-
-✔ Gain professional experience
-
-✔ Contribute to collaborative projects
-
----
-
-<p align="center">
-
-<i>"Learning one project at a time."</i>
 
 </p>
