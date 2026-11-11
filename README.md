@@ -4,15 +4,15 @@
   <img src="https://github.com/user-attachments/assets/1ebbc9fb-a64e-4514-b1dc-b3efd7949bde" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Lucía</h1>
+<h1 align="center">Hello! / Hola! 👋, I'm Lucía / Me llamo Lucía </h1>
 
-<h3 align="center">Systems Engineering Student | UTN Argentina 🇦🇷</h3>
+<h3 align="center">Estudiante de Ingenieria en Sistemas | UTN Argentina 🇦🇷</h3>
 
 <table>
 <tr>
 <td width="60%">
 
-### 👩‍💻 About Me
+### 👩‍💻 Sobre mí
 
 🎓 Information Systems Engineering Student at UTN
 
@@ -36,7 +36,7 @@
 
 
 
-### 🌐 Connect With Me
+### 🌐 Conecta conmigo
 
 <p align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Algunos de mis Proyectos
 
 🔹 MiPaginaWeb
 
