@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="<img width="736" height="414" alt="descarga (3)" src="https://github.com/user-attachments/assets/1ebbc9fb-a64e-4514-b1dc-b3efd7949bde" />" width="100%">
+  <img src="https://github.com/user-attachments/assets/1ebbc9fb-a64e-4514-b1dc-b3efd7949bde" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Lucía</h1>
